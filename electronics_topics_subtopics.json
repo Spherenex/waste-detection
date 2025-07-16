@@ -1,0 +1,278 @@
+[
+  {
+    "topic": "Active Components",
+    "subtopics": [
+      "Diode Rectifier",
+      "Dynamic Signal Analyser",
+      "Electric DC Motor",
+      "Electric Fuses",
+      "Electronic Fuses",
+      "LED Panel Indicator",
+      "Logic Ics Cmos Series",
+      "Micro Drone Propeller",
+      "Other Academic Products",
+      "Schottky Diodes",
+      "Scientific SM7023 Digital Multimeter",
+      "Tricycle Robotic Machine",
+      "Zener Diode"
+    ]
+  },
+  {
+    "topic": "Audio & Video",
+    "subtopics": [
+      "Rs232 Converter"
+    ]
+  },
+  {
+    "topic": "Biomedical",
+    "subtopics": [
+      "Biomedical & Life Science"
+    ]
+  },
+  {
+    "topic": "Cables & Wires",
+    "subtopics": [
+      "Fuse Connecting Wire",
+      "Mx Vga Cable"
+    ]
+  },
+  {
+    "topic": "Communication Modules",
+    "subtopics": [
+      "Bluetooth Serial Modules",
+      "Bluetooth Switching Controller Module",
+      "Digital RFID Reader",
+      "GPS Internal Antenna",
+      "GPS Modules",
+      "GPS Modules 57 Channel",
+      "Logitech Wireless Mouse",
+      "Rf Transmitter And Receiver",
+      "Rfid 4 Port Reader",
+      "Rfid Cards 125 Khz",
+      "SIM800A GPS Module",
+      "Wifi Modules",
+      "Wifi Wlan Modules",
+      "Wireless And Wired Mouse",
+      "Wireless Mouse",
+      "Wireless Presenter"
+    ]
+  },
+  {
+    "topic": "Connectors",
+    "subtopics": [
+      "Audio Cables Connector",
+      "Banana Connector",
+      "Ceramic Electrical Connector",
+      "Connectors",
+      "D- Sub Connector",
+      "Dc Plugs",
+      "Electronic Connectors",
+      "Eruo connector",
+      "Frc Female Connector For Electronic Industry",
+      "Mini Din Connector",
+      "Plastic Electrical Wire Connector",
+      "Power Sockets",
+      "Rmc Relimate Connector",
+      "Sim Connector",
+      "Usb And Micro Jack Connector",
+      "Wire To Wire Connector"
+    ]
+  },
+  {
+    "topic": "Development Boards",
+    "subtopics": [
+      "8095 Electronic Development Board",
+      "Development Boards",
+      "Infineon Modules",
+      "Logitech keyboard",
+      "Power Modules",
+      "Timer Module"
+    ]
+  },
+  {
+    "topic": "Displays",
+    "subtopics": [
+      "E-Ink Paper Display Module",
+      "LCD Display",
+      "Remote Monitoring System",
+      "TFT LCD Screen Module"
+    ]
+  },
+  {
+    "topic": "LED & Lighting",
+    "subtopics": [
+      "3 V Infrared LED",
+      "Led Dimmimg Lamp",
+      "Right Angled Adapters"
+    ]
+  },
+  {
+    "topic": "Microcontrollers",
+    "subtopics": [
+      "Arduino Micro",
+      "Arduino Nano Board",
+      "Arduino Portenta H7 Development Board",
+      "Arduino USB Evaluation Module",
+      "Arduino USB host shield",
+      "Arduino Uno",
+      "Arduino Uno R3 Smd With Usb Cable",
+      "Arduino Zero",
+      "Arduino Zero Electronic Development Board",
+      "Arduino wifi shield",
+      "ESP 32 WiFi Module",
+      "ESP 8266 NODE MCU",
+      "Fire Alarm System",
+      "NODE MCU WiFi Module",
+      "Raspberry PI Microcontroller",
+      "TFT Arduino Display"
+    ]
+  },
+  {
+    "topic": "Motors & Drivers",
+    "subtopics": [
+      "3 Phase Servo Motor",
+      "Coreless Motor",
+      "Lm298n Motor Driver",
+      "Motor Driver Shield",
+      "Robot Motor Wheel",
+      "Servo Motor MG995"
+    ]
+  },
+  {
+    "topic": "Other/Miscellaneous",
+    "subtopics": [
+      "3d printing",
+      "Active Component",
+      "Automotive Fuses And Fuse Holders",
+      "Cooling fan",
+      "Crimping Pin",
+      "Crystal Oscillators",
+      "Dc Pin",
+      "Delay Time model",
+      "Dish Tv Adapter",
+      "Dyfenco Liquid Flux",
+      "Dyfenco Solder Paste",
+      "Ebmpapst Coolent Fan",
+      "Electro Component",
+      "Fanuc Miniature Fuse",
+      "Gas Discharge Tube",
+      "Glass Axial Fuse",
+      "Logitech",
+      "Logitech Cam Connect",
+      "Logitech USB bolt",
+      "Logitech Webcam",
+      "Metal Pendrive",
+      "Passive Components",
+      "Presenter",
+      "Ptc Resettable Fuse",
+      "Radial Fuses",
+      "Safety Fuse",
+      "Sim Card Holder",
+      "Thermal Fuse",
+      "Thermal Fuses",
+      "Usb Fingerprint Reader"
+    ]
+  },
+  {
+    "topic": "PCB & Fabrication",
+    "subtopics": [
+      "Double Sided Pcb",
+      "Metal Core Pcb",
+      "PCB Connectors",
+      "Pcb Design Sevice",
+      "Pcb Drilling And Routing Machine",
+      "Pcb Fabrication",
+      "Pcb Mount Terminal Block",
+      "Printed Circuit Board",
+      "Single Sided Pcb"
+    ]
+  },
+  {
+    "topic": "Passive Components",
+    "subtopics": [
+      "Smd Power Inductor",
+      "Smd Tantalum Capacitors"
+    ]
+  },
+  {
+    "topic": "Pcb Designing",
+    "subtopics": [
+      "Pcb Designing & Manufacturing"
+    ]
+  },
+  {
+    "topic": "Power Supply",
+    "subtopics": [
+      "Battery Charging Module",
+      "Battery cells",
+      "Lithium Ion Battery Accessories",
+      "Lithium Polymer Battery",
+      "Plc Battery",
+      "Rechargeable battery",
+      "SMPS Module"
+    ]
+  },
+  {
+    "topic": "Raspberry PI 5",
+    "subtopics": [
+      "Raspberry PI 5 - 8GB"
+    ]
+  },
+  {
+    "topic": "Raspberry Pi",
+    "subtopics": [
+      "Raspberry PI 4B Acrylic Case",
+      "Raspberry PI POE Add-on Board",
+      "Raspberry Pi 3",
+      "Raspberry Pi 4",
+      "Raspberry Pi Aluminum Heatsink",
+      "Raspberry Pi Camera",
+      "Raspberry Pi Keyboard",
+      "Raspberry Pi Mouse",
+      "Raspberry Pi Zero"
+    ]
+  },
+  {
+    "topic": "Relays & Switching",
+    "subtopics": [
+      "Emergency Stop Switches",
+      "Power Switches",
+      "Relay Channel Boards",
+      "Rotary Cam Switch",
+      "Smd Switches",
+      "Switching Regulators"
+    ]
+  },
+  {
+    "topic": "Resettable",
+    "subtopics": [
+      "Resettable & Non Resettable Fuse"
+    ]
+  },
+  {
+    "topic": "Sensors",
+    "subtopics": [
+      "E3fa-rp21 Omron Photoelectric Sensor",
+      "Gas Sensor Module",
+      "Infrared Temperature Sensors",
+      "MQ4 Methane Gas Sensor",
+      "Metal Detector Sensor",
+      "Onlive Vibration Sensor",
+      "Temperature Sensor",
+      "Vibration Sensor"
+    ]
+  },
+  {
+    "topic": "Test",
+    "subtopics": [
+      "Test & Measurement"
+    ]
+  },
+  {
+    "topic": "Tools & Equipment",
+    "subtopics": [
+      "Dyfenco Soldering Wire",
+      "Hot Dip Soldering Bar"
+    ]
+  }
+]
